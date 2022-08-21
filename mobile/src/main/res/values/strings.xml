@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wear OS Communication</string>
+    <string name="send_random_value">Send random value</string>
+</resources>
